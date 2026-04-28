@@ -13,9 +13,9 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # ─── Sandbox API Config ─────────────────────────────────────────
-SANDBOX_API_KEY    = "key_test_64c2ed3ec09846c9bed2e6812ea303f5"
-SANDBOX_API_SECRET = "secret_test_074d10bde28c4fd18aae73d05ccf6d22"
-SANDBOX_BASE       = "https://test-api.sandbox.co.in"
+SANDBOX_API_KEY    = "key_live_03b0987dc6774740a307ca435d605713"
+SANDBOX_API_SECRET = "secret_live_ec4e027fbcc44d93bf3cf93724e03174"
+SANDBOX_BASE       = "https://api.sandbox.co.in"
 SANDBOX_VERSION    = "1.0"
 
 # ─── NIC Code to Sector Mapping ─────────────────────────────────
